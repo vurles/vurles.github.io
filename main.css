@@ -12,3 +12,9 @@
     height: 250px;
     width: 250px;
 } */
+.titulo{
+    text-align: center;
+}
+.card-img-top{
+    height: 150px;
+}
